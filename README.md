@@ -2,6 +2,10 @@
 A Streamlit-based Movie Recommendation System that allows users to upload a movie dataset and explore movies through search, analytics, and visualizations.
 The application uses TF-IDF concepts, similarity analysis, and interactive charts to enhance movie discovery.
 
+# Screenshoot
+<img width="1536" height="1024" alt="Image Jan 1, 2026, 08_55_51 PM" src="https://github.com/user-attachments/assets/b837d803-9dc0-454c-ad7c-3b0e9a8b3dda" />
+
+
 # Features
 📂 Upload your own CSV movie dataset
 🔍 Search movies by title
